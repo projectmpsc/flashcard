@@ -1,0 +1,773 @@
+[
+  {
+    "question": "What is Article 21 about?",
+    "answer": "Right to Life and Personal Liberty",
+    "options": ["R. K. Shanmukham Chetty", "Seventh Schedule", "Right to Life and Personal Liberty", "Article 32"]
+  },
+  {
+    "question": "Who was the first President of India?",
+    "answer": "Dr. Rajendra Prasad",
+    "options": ["Sucheta Kripalani", "42nd Amendment", "Sukumar Sen", "Dr. Rajendra Prasad"]
+  },
+  {
+    "question": "What does DPSP stand for?",
+    "answer": "Directive Principles of State Policy",
+    "options": ["Eastern Ganga Dynasty", "Akbar", "Babur", "Directive Principles of State Policy"]
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "options": ["Paris", "Dr. Rajendra Prasad", "Sardar Vallabhbhai Patel", "Sardar Vallabhbhai Patel"]
+  },
+  {
+    "question": "Who wrote the Indian National Anthem?",
+    "answer": "Rabindranath Tagore",
+    "options": ["Lord Chelmsford", "Rabindranath Tagore", "Government of India Act, 1919", "NH 44"]
+  },
+  {
+    "question": "Which Article of the Indian Constitution deals with the abolition of untouchability?",
+    "answer": "Article 17",
+    "options": ["Article 356", "Article 17", "Operation Vijay", "5th (as of 2023)"]
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "answer": "Dr. B.R. Ambedkar",
+    "options": ["Dr. B.R. Ambedkar", "Chandragupta Maurya", "Article 17", "Akbar"]
+  },
+  {
+    "question": "Which Article of the Indian Constitution provides for the President's rule in states?",
+    "answer": "Article 356",
+    "options": ["To regulate the securities market in India", "42nd Amendment", "Article 356", "Bangladesh"]
+  },
+  {
+    "question": "What is the tenure of the Lok Sabha?",
+    "answer": "5 years",
+    "options": ["Article 54", "Jawaharlal Nehru", "C. Rajagopalachari", "5 years"]
+  },
+  {
+    "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "answer": "Part III",
+    "options": ["Part III", "Service sector", "Jawaharlal Nehru", "5 years"]
+  },
+  {
+    "question": "Which amendment is known as the Mini-Constitution?",
+    "answer": "42nd Amendment",
+    "options": ["Karnataka", "42nd Amendment", "Ministry of Finance", "Jawaharlal Nehru"]
+  },
+  {
+    "question": "What is the maximum strength of the Rajya Sabha?",
+    "answer": "250 members",
+    "options": ["Jawaharlal Nehru", "Paris", "Sardar Vallabhbhai Patel", "250 members"]
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "answer": "Jawaharlal Nehru",
+    "options": ["Government of India Act, 1919", "Gujarat", "Jawaharlal Nehru", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Which Article deals with the election of the President of India?",
+    "answer": "Article 54",
+    "options": ["National Institution for Transforming India", "Article 54", "Pataliputra", "42nd Amendment"]
+  },
+  {
+    "question": "What is the full form of GST?",
+    "answer": "Goods and Services Tax",
+    "options": ["Bengaluru", "Sardar Vallabhbhai Patel", "Goods and Services Tax", "Meira Kumar"]
+  },
+  {
+    "question": "What is the minimum age for becoming a member of the Rajya Sabha?",
+    "answer": "30 years",
+    "options": ["Battle of Plassey (1757)", "Sukumar Sen", "30 years", "5 years"]
+  },
+  {
+    "question": "Which Indian Act introduced the bicameral legislature in India?",
+    "answer": "Government of India Act, 1919",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Lord Curzon", "Government of India Act, 1919"]
+  },
+  {
+    "question": "Who was the first Indian Governor-General of India?",
+    "answer": "C. Rajagopalachari",
+    "options": ["C. Rajagopalachari", "NH 44", "Dr. Sarvepalli Radhakrishnan", "Chandragupta Maurya"]
+  },
+  {
+    "question": "Which Article of the Constitution provides for financial emergency?",
+    "answer": "Article 360",
+    "options": ["250 members", "Article 360", "Godavari River", "Article 17"]
+  },
+  {
+    "question": "Which schedule of the Indian Constitution deals with the division of powers between the Union and States?",
+    "answer": "Seventh Schedule",
+    "options": ["Kautilya (Chanakya)", "Operation Vijay", "Kolkata", "Seventh Schedule"]
+  },
+  {
+    "question": "Who was the first woman President of India?",
+    "answer": "Pratibha Patil",
+    "options": ["Narendranath Datta", "Article 17", "Quit India Movement", "Pratibha Patil"]
+  },
+  {
+    "question": "Which economic policy in 1991 liberalized the Indian economy?",
+    "answer": "New Economic Policy",
+    "options": [
+      "Boycott of British goods and promotion of Indian products",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "New Economic Policy"
+    ]
+  },
+  {
+    "question": "Who is the chairman of the NITI Aayog?",
+    "answer": "Prime Minister of India",
+    "options": ["Sangama Dynasty", "Ganesh Vasudev Mavalankar", "Venus", "Prime Minister of India"]
+  },
+  {
+    "question": "Which Mughal emperor abolished Jizya tax?",
+    "answer": "Akbar",
+    "options": ["Non-Cooperation Movement", "Akbar", "Subhas Chandra Bose", "Sardar Vallabhbhai Patel"]
+  },
+  {
+    "question": "Which battle marked the beginning of British rule in India?",
+    "answer": "Battle of Plassey (1757)",
+    "options": [
+      "To regulate the securities market in India",
+      "Battle of Plassey (1757)",
+      "30 years",
+      "Kautilya (Chanakya)"
+    ]
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire?",
+    "answer": "Chandragupta Maurya",
+    "options": ["Kerala", "Chandragupta Maurya", "Ahmedabad", "New Economic Policy"]
+  },
+  {
+    "question": "What was the capital of the Gupta Empire?",
+    "answer": "Pataliputra",
+    "options": ["Kolkata", "Pataliputra", "Sucheta Kripalani", "Balwant Rai Mehta Committee"]
+  },
+  {
+    "question": "Who wrote Arthashastra?",
+    "answer": "Kautilya (Chanakya)",
+    "options": ["Kautilya (Chanakya)", "Ministry of Finance", "Venus", "Megasthenes"]
+  },
+  {
+    "question": "Which Indian freedom fighter founded the Azad Hind Fauj?",
+    "answer": "Subhas Chandra Bose",
+    "options": ["Rabindranath Tagore", "Bengaluru", "Article 360", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "answer": "Rabindranath Tagore",
+    "options": ["5 years", "Article 54", "Pratibha Patil", "Rabindranath Tagore"]
+  },
+  {
+    "question": "What was the main objective of the Swadeshi Movement?",
+    "answer": "Boycott of British goods and promotion of Indian products",
+    "options": [
+      "Dr. A.P.J. Abdul Kalam",
+      "Boycott of British goods and promotion of Indian products",
+      "Sukumar Sen",
+      "Ganesh Vasudev Mavalankar"
+    ]
+  },
+  {
+    "question": "Who was the Viceroy of India during the Partition of Bengal?",
+    "answer": "Lord Curzon",
+    "options": ["Andhra Pradesh", "Rabindranath Tagore", "Gross Domestic Product", "Lord Curzon"]
+  },
+  {
+    "question": "Who founded the Indian National Congress (INC)?",
+    "answer": "A.O. Hume",
+    "options": ["NH 44", "Lord Lytton", "A.O. Hume", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Who led the Dandi March in 1930?",
+    "answer": "Mahatma Gandhi",
+    "options": ["Article 54", "Kalpana Chawla", "Mahatma Gandhi", "Dr. B.R. Ambedkar"]
+  },
+  {
+    "question": "Which movement was launched after the Jallianwala Bagh massacre?",
+    "answer": "Non-Cooperation Movement",
+    "options": ["Sukumar Sen", "Copper", "Lord Lytton", "Non-Cooperation Movement"]
+  },
+  {
+    "question": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+    "answer": "Lal Bahadur Shastri",
+    "options": ["Jawaharlal Nehru", "Government of India Act, 1919", "Lal Bahadur Shastri", "Non-Cooperation Movement"]
+  },
+  {
+    "question": "Who introduced the subsidiary alliance system in India?",
+    "answer": "Lord Wellesley",
+    "options": ["Prime Minister of India", "Ministry of Finance", "Lord Wellesley", "Government of India Act, 1919"]
+  },
+  {
+    "question": "Which dynasty built the Sun Temple at Konark?",
+    "answer": "Eastern Ganga Dynasty",
+    "options": ["Major Somnath Sharma", "Eastern Ganga Dynasty", "Dr. B.R. Ambedkar", "Lord Dalhousie"]
+  },
+  {
+    "question": "Who established the Brahmo Samaj?",
+    "answer": "Raja Ram Mohan Roy",
+    "options": ["Raja Ram Mohan Roy", "Dr. A.P.J. Abdul Kalam", "Subhas Chandra Bose", "Gross Domestic Product"]
+  },
+  {
+    "question": "Who introduced the Vernacular Press Act?",
+    "answer": "Lord Lytton",
+    "options": ["Ahmedabad", "Government of India Act, 1919", "Lord Lytton", "Babur"]
+  },
+  {
+    "question": "Which session of the Indian National Congress declared 'Purna Swaraj'?",
+    "answer": "Lahore Session, 1929",
+    "options": ["Lord Mountbatten", "Lahore Session, 1929", "Ministry of Finance", "Kalpana Chawla"]
+  },
+  {
+    "question": "Who was the first Indian woman to go to space?",
+    "answer": "Kalpana Chawla",
+    "options": ["Eastern Ganga Dynasty", "Kalpana Chawla", "Kolkata", "Samudragupta"]
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "answer": "Ganga",
+    "options": [
+      "Sukumar Sen",
+      "Multiple indirect taxes like VAT, Service Tax, and Excise Duty",
+      "Eastern Ganga Dynasty",
+      "Ganga"
+    ]
+  },
+  {
+    "question": "Who is known as the Iron Man of India?",
+    "answer": "Sardar Vallabhbhai Patel",
+    "options": ["R. K. Shanmukham Chetty", "Article 17", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru"]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "options": ["Ministry of Finance", "Gross Domestic Product", "Mars", "Bangladesh"]
+  },
+  {
+    "question": "Who was the first law minister of India?",
+    "answer": "Dr. B.R. Ambedkar",
+    "options": ["Article 32", "Bhoodan Movement", "Seventh Schedule", "Dr. B.R. Ambedkar"]
+  },
+  {
+    "question": "Which year did India become a republic?",
+    "answer": "1950",
+    "options": ["Major Somnath Sharma", "Mars", "1950", "Article 360"]
+  },
+  {
+    "question": "Which Indian state has the highest literacy rate?",
+    "answer": "Kerala",
+    "options": ["Kalpana Chawla", "Kerala", "Pingali Venkayya", "Kautilya (Chanakya)"]
+  },
+  {
+    "question": "Who was the first speaker of the Lok Sabha?",
+    "answer": "Ganesh Vasudev Mavalankar",
+    "options": ["Samudragupta", "Ganesh Vasudev Mavalankar", "Narmada River", "Jawaharlal Nehru"]
+  },
+  {
+    "question": "What is Article 14 of the Indian Constitution about?",
+    "answer": "Equality before law",
+    "options": ["Kalpana Chawla", "Equality before law", "Taka", "Kautilya (Chanakya)"]
+  },
+  {
+    "question": "Who is known as the Missile Man of India?",
+    "answer": "Dr. A.P.J. Abdul Kalam",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. A.P.J. Abdul Kalam",
+      "Boycott of British goods and promotion of Indian products",
+      "Dr. B.R. Ambedkar"
+    ]
+  },
+  {
+    "question": "Which Indian state was the first to be formed on a linguistic basis?",
+    "answer": "Andhra Pradesh",
+    "options": ["Dr. Sarvepalli Radhakrishnan", "Sucheta Kripalani", "Andhra Pradesh", "Government of India Act, 1919"]
+  },
+  {
+    "question": "What is the tenure of a Rajya Sabha member?",
+    "answer": "6 years",
+    "options": ["Third Five-Year Plan", "Dr. B.R. Ambedkar", "Subhas Chandra Bose", "6 years"]
+  },
+  {
+    "question": "Who was the first Deputy Prime Minister of India?",
+    "answer": "Sardar Vallabhbhai Patel",
+    "options": ["Sardar Vallabhbhai Patel", "Kautilya (Chanakya)", "Samudragupta", "Equality before law"]
+  },
+  {
+    "question": "Which amendment to the Indian Constitution lowered the voting age from 21 to 18?",
+    "answer": "61st Amendment",
+    "options": ["Chandela Dynasty", "Aravalli Range", "Mumbai", "61st Amendment"]
+  },
+  {
+    "question": "Who appoints the Chief Election Commissioner of India?",
+    "answer": "The President of India",
+    "options": [
+      "New Economic Policy",
+      "New Economic Policy",
+      "National Institution for Transforming India",
+      "The President of India"
+    ]
+  },
+  {
+    "question": "Which article of the Indian Constitution deals with emergency provisions?",
+    "answer": "Article 352-360",
+    "options": ["Samudragupta", "Dr. A.P.J. Abdul Kalam", "The President of India", "Article 352-360"]
+  },
+  {
+    "question": "Which Indian freedom fighter is associated with the slogan 'Give me blood and I will give you freedom'?",
+    "answer": "Subhas Chandra Bose",
+    "options": ["New Economic Policy", "Mars", "Samudragupta", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Who was the first Governor-General of Independent India?",
+    "answer": "Lord Mountbatten",
+    "options": ["Bhoodan Movement", "Rabindranath Tagore", "5 years", "Lord Mountbatten"]
+  },
+  {
+    "question": "What was the name of the operation conducted during the Indo-Pak war of 1971?",
+    "answer": "Operation Vijay",
+    "options": ["Kerala", "30 years", "Dr. B.R. Ambedkar", "Operation Vijay"]
+  },
+  {
+    "question": "Who was the founder of the Mughal Empire in India?",
+    "answer": "Babur",
+    "options": ["R. K. Shanmukham Chetty", "Sardar Vallabhbhai Patel", "Lal Bahadur Shastri", "Babur"]
+  },
+  {
+    "question": "Which Gupta ruler is known as the Napoleon of India?",
+    "answer": "Samudragupta",
+    "options": ["Samudragupta", "Gujarat", "Tenth Schedule", "Rabindranath Tagore"]
+  },
+  {
+    "question": "Which dynasty built the famous Khajuraho temples?",
+    "answer": "Chandela Dynasty",
+    "options": ["Kautilya (Chanakya)", "Shah Jahan", "Ministry of Finance", "Chandela Dynasty"]
+  },
+  {
+    "question": "Who wrote the book 'Discovery of India'?",
+    "answer": "Jawaharlal Nehru",
+    "options": ["Kerala", "Jawaharlal Nehru", "Article 32", "Article 54"]
+  },
+  {
+    "question": "Which was the first metal used by humans?",
+    "answer": "Copper",
+    "options": ["Article 17", "Copper", "Aravalli Range", "New Economic Policy"]
+  },
+  {
+    "question": "Who was the first person to receive the Bharat Ratna award?",
+    "answer": "Dr. Sarvepalli Radhakrishnan",
+    "options": ["Dr. Sarvepalli Radhakrishnan", "Dr. B.R. Ambedkar", "Article 54", "Meira Kumar"]
+  },
+  {
+    "question": "Who designed the Indian national flag?",
+    "answer": "Pingali Venkayya",
+    "options": ["Shah Jahan", "The President of India", "Pingali Venkayya", "Reserve Bank of India (RBI)"]
+  },
+  {
+    "question": "What is the economic policy of privatization, liberalization, and globalization known as?",
+    "answer": "New Economic Policy",
+    "options": [
+      "Boycott of British goods and promotion of Indian products",
+      "New Economic Policy",
+      "Subhas Chandra Bose",
+      "Lord Wellesley"
+    ]
+  },
+  {
+    "question": "Which body is responsible for monetary policy in India?",
+    "answer": "Reserve Bank of India (RBI)",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Government of India Act, 1919",
+      "Sucheta Kripalani",
+      "New Economic Policy"
+    ]
+  },
+  {
+    "question": "What is the main function of SEBI?",
+    "answer": "To regulate the securities market in India",
+    "options": [
+      "42nd Amendment",
+      "Balwant Rai Mehta Committee",
+      "Dr. B.R. Ambedkar",
+      "To regulate the securities market in India"
+    ]
+  },
+  {
+    "question": "Which tax was replaced by GST in India?",
+    "answer": "Multiple indirect taxes like VAT, Service Tax, and Excise Duty",
+    "options": [
+      "Kalpana Chawla",
+      "Article 17",
+      "Godavari River",
+      "Multiple indirect taxes like VAT, Service Tax, and Excise Duty"
+    ]
+  },
+  {
+    "question": "Which is the largest sector in India's GDP composition?",
+    "answer": "Service sector",
+    "options": ["Shah Jahan", "Service sector", "42nd Amendment", "Article 352-360"]
+  },
+  {
+    "question": "Which Five-Year Plan introduced the Green Revolution in India?",
+    "answer": "Third Five-Year Plan",
+    "options": [
+      "Article 32",
+      "Boycott of British goods and promotion of Indian products",
+      "Pataliputra",
+      "Third Five-Year Plan"
+    ]
+  },
+  {
+    "question": "Which Indian economist won the Nobel Prize for Economics?",
+    "answer": "Amartya Sen",
+    "options": ["Article 32", "Amartya Sen", "61st Amendment", "Bhoodan Movement"]
+  },
+  {
+    "question": "What is the full form of NITI Aayog?",
+    "answer": "National Institution for Transforming India",
+    "options": [
+      "Distribution of financial resources between the central and state governments",
+      "Ahmedabad",
+      "Directive Principles of State Policy",
+      "National Institution for Transforming India"
+    ]
+  },
+  {
+    "question": "Which Indian city is known as the financial capital of India?",
+    "answer": "Mumbai",
+    "options": ["Mumbai", "Lal Bahadur Shastri", "6 years", "Until the age of 65"]
+  },
+  {
+    "question": "Which organization publishes the Economic Survey of India?",
+    "answer": "Ministry of Finance",
+    "options": ["To regulate the securities market in India", "New Economic Policy", "Ministry of Finance", "Akbar"]
+  },
+  {
+    "question": "What is the rank of India in terms of nominal GDP globally?",
+    "answer": "5th (as of 2023)",
+    "options": ["5th (as of 2023)", "Sardar Vallabhbhai Patel", "Lord Curzon", "Copper"]
+  },
+  {
+    "question": "Which Article of the Indian Constitution deals with the abolition of untouchability?",
+    "answer": "Article 17",
+    "options": ["Sardar Vallabhbhai Patel", "5 years", "Battle of Buxar (1764)", "Article 17"]
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "answer": "Rabindranath Tagore",
+    "options": ["Subhas Chandra Bose", "Article 352-360", "Kautilya (Chanakya)", "Rabindranath Tagore"]
+  },
+  {
+    "question": "Which movement was launched by Mahatma Gandhi in 1942?",
+    "answer": "Quit India Movement",
+    "options": ["Lahore Session, 1929", "Quit India Movement", "Battle of Buxar (1764)", "Lord Curzon"]
+  },
+  {
+    "question": "Who was the first Indian woman to go to space?",
+    "answer": "Kalpana Chawla",
+    "options": ["Gujarat", "Kalpana Chawla", "5 years", "Article 17"]
+  },
+  {
+    "question": "Which battle marked the beginning of British rule in India?",
+    "answer": "Battle of Plassey (1757)",
+    "options": ["Sangama Dynasty", "Sukumar Sen", "Battle of Plassey (1757)", "Raja Ram Mohan Roy"]
+  },
+  {
+    "question": "What is the main function of the Finance Commission of India?",
+    "answer": "Distribution of financial resources between the central and state governments",
+    "options": [
+      "Chandragupta Maurya",
+      "Lord Lytton",
+      "Distribution of financial resources between the central and state governments",
+      "30 years"
+    ]
+  },
+  {
+    "question": "Who is the author of 'Indica'?",
+    "answer": "Megasthenes",
+    "options": ["Megasthenes", "25 years", "Lord Dalhousie", "Chandragupta Maurya"]
+  },
+  {
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "answer": "Shah Jahan",
+    "options": ["Shah Jahan", "Ganga", "C. Rajagopalachari", "Gujarat"]
+  },
+  {
+    "question": "What was the original name of Swami Vivekananda?",
+    "answer": "Narendranath Datta",
+    "options": ["Narendranath Datta", "Megasthenes", "Shah Jahan", "Bengaluru"]
+  },
+  {
+    "question": "Which dynasty established the Vijayanagara Empire?",
+    "answer": "Sangama Dynasty",
+    "options": ["Sangama Dynasty", "Chandragupta Maurya", "Right to Life and Personal Liberty", "Dr. Rajendra Prasad"]
+  },
+  {
+    "question": "Which Indian state is the largest producer of coffee?",
+    "answer": "Karnataka",
+    "options": ["Karnataka", "Jawaharlal Nehru", "Eastern Ganga Dynasty", "Article 17"]
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "answer": "Dr. B.R. Ambedkar",
+    "options": ["Rabindranath Tagore", "5 years", "Mars", "Dr. B.R. Ambedkar"]
+  },
+  {
+    "question": "Which act introduced the system of Dyarchy in India?",
+    "answer": "Government of India Act, 1919",
+    "options": ["Government of India Act, 1919", "Ministry of Finance", "Copper", "Dr. Sarvepalli Radhakrishnan"]
+  },
+  {
+    "question": "Which river is known as the Dakshina Ganga?",
+    "answer": "Godavari River",
+    "options": ["Lord Curzon", "Godavari River", "Service sector", "Amartya Sen"]
+  },
+  {
+    "question": "Who was the first Indian to receive the Bharat Ratna posthumously?",
+    "answer": "Lal Bahadur Shastri",
+    "options": ["Lal Bahadur Shastri", "Part III", "Bhoodan Movement", "R. K. Shanmukham Chetty"]
+  },
+  {
+    "question": "What is the tenure of the Chief Justice of India?",
+    "answer": "Until the age of 65",
+    "options": ["Paris", "Lal Bahadur Shastri", "Until the age of 65", "Mumbai"]
+  },
+  {
+    "question": "Which Indian city is known as the City of Palaces?",
+    "answer": "Kolkata",
+    "options": ["Pratibha Patil", "Akbar", "Kolkata", "Rakesh Sharma"]
+  },
+  {
+    "question": "Who was the last Governor-General of India?",
+    "answer": "C. Rajagopalachari",
+    "options": ["Shah Jahan", "C. Rajagopalachari", "Ahmedabad", "Article 356"]
+  },
+  {
+    "question": "Which movement was started by Vinoba Bhave?",
+    "answer": "Bhoodan Movement",
+    "options": ["Taka", "6 years", "Aravalli Range", "Bhoodan Movement"]
+  },
+  {
+    "question": "Which city is known as the Silicon Valley of India?",
+    "answer": "Bengaluru",
+    "options": ["Lord Chelmsford", "Dr. A.P.J. Abdul Kalam", "Bengaluru", "Akbar"]
+  },
+  {
+    "question": "Which is the longest national highway in India?",
+    "answer": "NH 44",
+    "options": ["Government of India Act, 1919", "Directive Principles of State Policy", "NH 44", "Quit India Movement"]
+  },
+  {
+    "question": "Who wrote 'The Discovery of India'?",
+    "answer": "Jawaharlal Nehru",
+    "options": ["Reserve Bank of India (RBI)", "Sukumar Sen", "Jawaharlal Nehru", "25 years"]
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Gross Domestic Product",
+    "options": ["Gross Domestic Product", "Sardar Vallabhbhai Patel", "Reserve Bank of India (RBI)", "Kalpana Chawla"]
+  },
+  {
+    "question": "Which article of the Indian Constitution deals with the right to constitutional remedies?",
+    "answer": "Article 32",
+    "options": ["Bangladesh", "Article 32", "Aravalli Range", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Which organization is responsible for preparing the Union Budget of India?",
+    "answer": "Ministry of Finance",
+    "options": ["Battle of Buxar (1764)", "Ministry of Finance", "Dr. B.R. Ambedkar", "Mars"]
+  },
+  {
+    "question": "Who was the first Indian Governor-General of Independent India?",
+    "answer": "C. Rajagopalachari",
+    "options": ["Aravalli Range", "C. Rajagopalachari", "Lord Chelmsford", "Directive Principles of State Policy"]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "options": ["The President of India", "Shah Jahan", "Dr. B.R. Ambedkar", "Mars"]
+  },
+  {
+    "question": "Who was the first woman Chief Minister of an Indian state?",
+    "answer": "Sucheta Kripalani",
+    "options": [
+      "Sucheta Kripalani",
+      "Liberalization, Privatization, and Globalization",
+      "Gross Domestic Product",
+      "Jawaharlal Nehru"
+    ]
+  },
+  {
+    "question": "Which is the highest civilian award in India?",
+    "answer": "Bharat Ratna",
+    "options": ["Bharat Ratna", "Dr. Rajendra Prasad", "Subhas Chandra Bose", "The President of India"]
+  },
+  {
+    "question": "Which schedule of the Indian Constitution contains the anti-defection law?",
+    "answer": "Tenth Schedule",
+    "options": ["1950", "25 years", "Tenth Schedule", "Gross Domestic Product"]
+  },
+  {
+    "question": "Who was the first Indian to travel in space?",
+    "answer": "Rakesh Sharma",
+    "options": ["Kalpana Chawla", "C. Rajagopalachari", "Rakesh Sharma", "Kolkata"]
+  },
+  {
+    "question": "Which state in India has the highest literacy rate?",
+    "answer": "Kerala",
+    "options": ["Dr. Rajendra Prasad", "Article 356", "Kerala", "Article 352-360"]
+  },
+  {
+    "question": "Who was the Viceroy of India during the Jallianwala Bagh massacre?",
+    "answer": "Lord Chelmsford",
+    "options": ["Pingali Venkayya", "Lord Chelmsford", "61st Amendment", "Ministry of Finance"]
+  },
+  {
+    "question": "Which is the oldest mountain range in India?",
+    "answer": "Aravalli Range",
+    "options": ["Lord Curzon", "Kalpana Chawla", "Aravalli Range", "Venus"]
+  },
+  {
+    "question": "What is the full form of LPG in economic terms?",
+    "answer": "Liberalization, Privatization, and Globalization",
+    "options": [
+      "Liberalization, Privatization, and Globalization",
+      "Major Somnath Sharma",
+      "Swami Dayananda Saraswati",
+      "Part III"
+    ]
+  },
+  {
+    "question": "Who is known as the Iron Man of India?",
+    "answer": "Sardar Vallabhbhai Patel",
+    "options": ["Akbar", "Gujarat", "Quit India Movement", "Sardar Vallabhbhai Patel"]
+  },
+  {
+    "question": "Which Indian city is known as the Manchester of India?",
+    "answer": "Ahmedabad",
+    "options": ["Eastern Ganga Dynasty", "Part III", "Chandela Dynasty", "Ahmedabad"]
+  },
+  {
+    "question": "What is the minimum age required to become the Prime Minister of India?",
+    "answer": "25 years",
+    "options": [
+      "25 years",
+      "Multiple indirect taxes like VAT, Service Tax, and Excise Duty",
+      "Tenth Schedule",
+      "Battle of Plassey (1757)"
+    ]
+  },
+  {
+    "question": "Who is the author of 'Arthashastra'?",
+    "answer": "Kautilya (Chanakya)",
+    "options": ["Subhas Chandra Bose", "1950", "Rabindranath Tagore", "Kautilya (Chanakya)"]
+  },
+  {
+    "question": "Which river is known as the lifeline of Madhya Pradesh and Gujarat?",
+    "answer": "Narmada River",
+    "options": ["Narmada River", "Jawaharlal Nehru", "Jawaharlal Nehru", "Samudragupta"]
+  },
+  {
+    "question": "Who founded the Indian National Army (INA)?",
+    "answer": "Subhas Chandra Bose",
+    "options": ["Sardar Vallabhbhai Patel", "Service sector", "Reserve Bank of India (RBI)", "Subhas Chandra Bose"]
+  },
+  {
+    "question": "Which Indian freedom fighter was popularly known as Netaji?",
+    "answer": "Subhas Chandra Bose",
+    "options": ["Akbar", "Ganga", "Subhas Chandra Bose", "Kerala"]
+  },
+  {
+    "question": "Which country shares the longest land border with India?",
+    "answer": "Bangladesh",
+    "options": ["Godavari River", "Jawaharlal Nehru", "Prime Minister of India", "Bangladesh"]
+  },
+  {
+    "question": "Who was the first Chief Election Commissioner of India?",
+    "answer": "Sukumar Sen",
+    "options": ["Rabindranath Tagore", "Kalpana Chawla", "Sukumar Sen", "Reserve Bank of India (RBI)"]
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "answer": "Venus",
+    "options": ["A.O. Hume", "Godavari River", "Venus", "Rabindranath Tagore"]
+  },
+  {
+    "question": "Which Indian leader gave the slogan 'Dilli Chalo'?",
+    "answer": "Subhas Chandra Bose",
+    "options": [
+      "Subhas Chandra Bose",
+      "Swami Dayananda Saraswati",
+      "To regulate the securities market in India",
+      "Right to Life and Personal Liberty"
+    ]
+  },
+  {
+    "question": "Who introduced the Doctrine of Lapse?",
+    "answer": "Lord Dalhousie",
+    "options": ["The President of India", "New Economic Policy", "Lord Dalhousie", "Government of India Act, 1919"]
+  },
+  {
+    "question": "Which committee recommended the Panchayati Raj system in India?",
+    "answer": "Balwant Rai Mehta Committee",
+    "options": ["Mahatma Gandhi", "Operation Vijay", "Balwant Rai Mehta Committee", "C. Rajagopalachari"]
+  },
+  {
+    "question": "Which battle marked the end of Mughal rule in India?",
+    "answer": "Battle of Buxar (1764)",
+    "options": ["Battle of Buxar (1764)", "Subhas Chandra Bose", "Gross Domestic Product", "Major Somnath Sharma"]
+  },
+  {
+    "question": "Who was the first Finance Minister of independent India?",
+    "answer": "R. K. Shanmukham Chetty",
+    "options": [
+      "National Institution for Transforming India",
+      "Until the age of 65",
+      "Sucheta Kripalani",
+      "R. K. Shanmukham Chetty"
+    ]
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "answer": "Gujarat",
+    "options": ["Gujarat", "Quit India Movement", "Lord Mountbatten", "Venus"]
+  },
+  {
+    "question": "Which movement is also known as the August Movement?",
+    "answer": "Quit India Movement",
+    "options": ["Kolkata", "Ministry of Finance", "Quit India Movement", "Pratibha Patil"]
+  },
+  {
+    "question": "Who founded the Arya Samaj?",
+    "answer": "Swami Dayananda Saraswati",
+    "options": ["6 years", "Swami Dayananda Saraswati", "30 years", "Equality before law"]
+  },
+  {
+    "question": "What is the currency of Bangladesh?",
+    "answer": "Taka",
+    "options": ["Ganesh Vasudev Mavalankar", "Taka", "Bangladesh", "Lord Curzon"]
+  },
+  {
+    "question": "Who was the first woman to be elected as the Speaker of the Lok Sabha?",
+    "answer": "Meira Kumar",
+    "options": ["Article 356", "Article 352-360", "Samudragupta", "Meira Kumar"]
+  },
+  {
+    "question": "What is the term of a member of the Lok Sabha?",
+    "answer": "5 years",
+    "options": ["Rabindranath Tagore", "Dr. B.R. Ambedkar", "5 years", "5th (as of 2023)"]
+  },
+  {
+    "question": "Which Indian city is known as the City of Joy?",
+    "answer": "Kolkata",
+    "options": ["Kalpana Chawla", "Kolkata", "Lahore Session, 1929", "Equality before law"]
+  },
+  {
+    "question": "Who was the first recipient of the Param Vir Chakra?",
+    "answer": "Major Somnath Sharma",
+    "options": ["Kalpana Chawla", "Jawaharlal Nehru", "Major Somnath Sharma", "Dr. B.R. Ambedkar"]
+  }
+]
+
