@@ -21,13 +21,13 @@ export default function FlashcardGame() {
   const [darkMode, setDarkMode] = useState(false)
   const [showStats, setShowStats] = useState(false)
   const [wrongAnswers, setWrongAnswers] = useState<number[]>([])
-  const [cardsPerRound] = useState(5)
+  const [cardsPerRound] = useState(Number(process.env.NEXT_PUBLIC_CARDS_PER_ROUND) || 5)
   const [isShuffling, setIsShuffling] = useState(false)
 
   // Load all flashcards from JSON
   useEffect(() => {
     setLoading(true)
-    fetch("/flashcards.json")
+    fetch(process.env.NEXT_PUBLIC_API_URL || "/flashcards.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to load flashcards")
