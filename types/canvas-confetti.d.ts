@@ -13,10 +13,9 @@ declare module 'canvas-confetti' {
       y?: number;
     };
     colors?: string[];
-    shapes?: ('square' | 'circle')[];
+    shapes?: Array<'square' | 'circle'>;
     scalar?: number;
     zIndex?: number;
-    disableForReducedMotion?: boolean;
   }
 
   function confetti(options?: ConfettiOptions): Promise<void>;

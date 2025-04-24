@@ -5,6 +5,9 @@ import { motion, AnimatePresence } from "framer-motion"
 import confetti from "canvas-confetti"
 import { BookOpen, Brain, Home, ChevronLeft, ChevronRight, Check, X, RefreshCw, Moon, Sun, Shuffle } from "lucide-react"
 
+// Add the type reference directly
+type ConfettiOptions = Parameters<typeof confetti>[0]
+
 export default function FlashcardGame() {
   const [mode, setMode] = useState<"home" | "study" | "quiz" | "stats">("home")
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -161,32 +164,41 @@ export default function FlashcardGame() {
   )
 
   const triggerConfetti = (isCorrectAnswer: boolean) => {
-    const defaults = {
+    const defaults: ConfettiOptions = {
       spread: 360,
       ticks: 50,
       gravity: 0.8,
       decay: 0.94,
       startVelocity: 30,
-      shapes: ["star"],
-      colors: isCorrectAnswer ? ["#FFD700", "#FFA500", "#FF4500"] : ["#00FF00", "#32CD32", "#008000"],
-    }
+      shapes: ['square', 'circle'] as ('square' | 'circle')[],
+      colors: isCorrectAnswer 
+        ? ["#FFD700", "#FFA500", "#FF4500"] 
+        : ["#00FF00", "#32CD32", "#008000"]
+    };
 
     confetti({
       ...defaults,
       particleCount: 40,
       scalar: 1.2,
       origin: { y: 0.7 },
-    })
+      spread: 50,
+      ticks: 200,
+      gravity: 1.2,
+      decay: 0.94,
+      startVelocity: 30,
+      shapes: ['square', 'circle'] as ('square' | 'circle')[],
+      colors: ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff']
+    });
 
     setTimeout(() => {
       confetti({
         ...defaults,
         particleCount: 30,
         scalar: 0.75,
-        origin: { y: 0.7 },
-      })
-    }, 250)
-  }
+        origin: { y: 0.7 }
+      });
+    }, 250);
+  };
 
   const calculateProgress = useCallback(() => {
     if (mode === "study") {
@@ -348,26 +360,26 @@ export default function FlashcardGame() {
 
   // Stats screen
   if (showStats && mode === "quiz") {
-    const accuracy = attempts > 0 ? Math.round((score / attempts) * 100) : 0
+    const accuracy = attempts > 0 ? Math.round((score / attempts) * 100) : 0;
 
     return (
       <div
-        className={`flex flex-col items-center justify-center min-h-screen p-4 ${darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-800"}`}
+        className={`flex flex-col items-center justify-center min-h-screen p-4 ${
+          darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-800"
+        }`}
       >
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
-          className={`max-w-md w-full p-8 rounded-xl shadow-lg ${darkMode ? "bg-gray-800" : "bg-white"}`}
+          className={`max-w-md w-full p-8 rounded-xl shadow-lg ${
+            darkMode ? "bg-gray-800" : "bg-white"
+          }`}
         >
           <h2 className="text-3xl font-bold text-center mb-6">Quiz Results</h2>
-
           <div className="space-y-4">
             <div className={`p-4 rounded-lg ${darkMode ? "bg-gray-700" : "bg-gray-100"}`}>
               <p className="text-lg">
-                Score:{" "}
-                <span className="font-bold">
-                  {score} / {flashcards.length}
-                </span>
+                Score: <span className="font-bold">{score} / {flashcards.length}</span>
               </p>
             </div>
 
@@ -377,9 +389,11 @@ export default function FlashcardGame() {
               </p>
               <div className="w-full bg-gray-300 rounded-full h-2.5 mt-2">
                 <div
-                  className={`h-2.5 rounded-full ${accuracy > 80 ? "bg-green-600" : accuracy > 50 ? "bg-yellow-500" : "bg-red-600"}`}
+                  className={`h-2.5 rounded-full ${
+                    accuracy > 80 ? "bg-green-600" : accuracy > 50 ? "bg-yellow-500" : "bg-red-600"
+                  }`}
                   style={{ width: `${accuracy}%` }}
-                ></div>
+                />
               </div>
             </div>
 
@@ -401,7 +415,9 @@ export default function FlashcardGame() {
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className={`px-4 py-2 rounded-md ${darkMode ? "bg-blue-700 hover:bg-blue-600" : "bg-blue-600 hover:bg-blue-700"} text-white flex items-center`}
+              className={`px-4 py-2 rounded-md ${
+                darkMode ? "bg-blue-700 hover:bg-blue-600" : "bg-blue-600 hover:bg-blue-700"
+              } text-white flex items-center`}
               onClick={() => setMode("home")}
             >
               <Home className="mr-2 h-4 w-4" /> Home
@@ -410,7 +426,9 @@ export default function FlashcardGame() {
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className={`px-4 py-2 rounded-md ${darkMode ? "bg-green-700 hover:bg-green-600" : "bg-green-600 hover:bg-green-700"} text-white flex items-center`}
+              className={`px-4 py-2 rounded-md ${
+                darkMode ? "bg-green-700 hover:bg-green-600" : "bg-green-600 hover:bg-green-700"
+              } text-white flex items-center`}
               onClick={resetGame}
             >
               <RefreshCw className="mr-2 h-4 w-4" /> Try Again
@@ -418,7 +436,7 @@ export default function FlashcardGame() {
           </div>
         </motion.div>
       </div>
-    )
+    );
   }
 
   // Main game screen (study or quiz mode)
@@ -660,13 +678,6 @@ export default function FlashcardGame() {
           50% { transform: translateX(5px); }
           75% { transform: translateX(-5px); }
           100% { transform: translateX(0); }
-        }
-        
-        .shake {
-          animation: shake 0.5s;
-        }
-        
-        .perspective-
         }
         
         .shake {
